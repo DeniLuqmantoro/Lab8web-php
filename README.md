@@ -107,7 +107,7 @@ Saya mencoba melakukan penambahan barang seperti pada gambar diatas, kemudian si
 
 Simpan dan buka pada browser dengan klik tombol ubah atau dengan link localhost/lab8_php_database/ubah.php
  
- ![image](https://user-images.githubusercontent.com/101716699/169772147-71893948-d958-4a61-aab5-e49574c05a53.png)
+![image](https://user-images.githubusercontent.com/101716699/169774394-c4cc1bb3-4897-4bb5-aba4-de91958f15e7.png)
 
 Disini saya melakukan perubahan data pada  harga barang dan stok barang, kemudian simpan dan lihat hasilnya.
  
